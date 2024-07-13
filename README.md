@@ -1,4 +1,4 @@
- * 😃 Hi, I’m @SThearyE 
+ * 😃 Hi, I’m Elaine
 * 🤗 I’m very passionate about in coding and data science 
 * 💡 I’m interesting in building my experiences in Python, C++, and SQL 
 * 👩🏻‍🎓 I’m currently studying Data Science at San Jose State University
